@@ -32,7 +32,7 @@ I'm a Full-stack software engineer with 4 years of experience in the Brazilian f
 [![AWS][AWS]][AWS-url]
 
 ### Artificial Inteligence
-I'm also doing my master degree in artificial inteligence. You goind to find some codes in python retaled with IA area.
+I'm also doing my master degree in artificial intelligence. You going to find here some codes related with my research.
 
 <!--
 **WandenDourado/WandenDourado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
